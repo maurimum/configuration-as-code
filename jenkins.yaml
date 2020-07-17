@@ -1,0 +1,166 @@
+credentials:
+  system:
+    domainCredentials:
+      - credentials:
+          - googleRobotPrivateKey:
+              module: |-
+                FAILED TO EXPORT
+                com.google.jenkins.plugins.credentials.oauth.GoogleRobotPrivateKeyCredentials#module: No configurator found for type class com.google.jenkins.plugins.credentials.oauth.GoogleRobotCredentialsModule
+              projectId: "jenkins-instance-dev"
+              serviceAccountConfig:
+                json:
+                  filename: "jenkins-gce.json"
+                  secretJsonKey: "{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}"
+          - googleRobotPrivateKey:
+              module: |-
+                FAILED TO EXPORT
+                com.google.jenkins.plugins.credentials.oauth.GoogleRobotPrivateKeyCredentials#module: No configurator found for type class com.google.jenkins.plugins.credentials.oauth.GoogleRobotCredentialsModule
+              projectId: "jenkins-gcp-cred"
+              serviceAccountConfig:
+                json:
+                  filename: "jenkins-gce.json"
+                  secretJsonKey: "{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}"
+jenkins:
+  agentProtocols:
+    - "JNLP4-connect"
+    - "Ping"
+  authorizationStrategy:
+    loggedInUsersCanDoAnything:
+      allowAnonymousRead: false
+  clouds:
+    - computeEngine:
+        cloudName: "jenkins"
+        configurations:
+          - bootDiskAutoDelete: true
+            bootDiskSizeGb: 20
+            bootDiskSizeGbStr: "20"
+            bootDiskSourceImageName: "https://www.googleapis.com/compute/v1/projects/jenkins-instance-dev/global/images/mvn-tf-1594991249"
+            bootDiskSourceImageProject: "jenkins-instance-dev"
+            bootDiskType: "https://www.googleapis.com/compute/v1/projects/jenkins-instance-dev/zones/us-central1-a/diskTypes/pd-standard"
+            description: "f1-small intances for basic jenkins jobs"
+            javaExecPath: "java"
+            labelSet:
+              - name: "basic"
+            labelString: "basic"
+            labels: "basic"
+            launchTimeoutSeconds: 300
+            launchTimeoutSecondsStr: "300"
+            machineType: "https://www.googleapis.com/compute/v1/projects/jenkins-instance-dev/zones/us-central1-a/machineTypes/f1-micro"
+            mode: NORMAL
+            namePrefix: "small"
+            networkConfiguration:
+              autofilled:
+                network: "https://www.googleapis.com/compute/v1/projects/jenkins-instance-dev/global/networks/default"
+                subnetwork: "https://www.googleapis.com/compute/v1/projects/jenkins-instance-dev/regions/us-central1/subnetworks/default"
+            numExecutors: 2
+            numExecutorsStr: "2"
+            preemptible: false
+            region: "https://www.googleapis.com/compute/v1/projects/jenkins-instance-dev/regions/us-central1"
+            retentionTimeMinutes: 15
+            retentionTimeMinutesStr: "15"
+            runAsUser: "jenkins"
+            zone: "https://www.googleapis.com/compute/v1/projects/jenkins-instance-dev/zones/us-central1-a"
+        credentialsId: "jenkins-gcp-cred"
+        instanceCapStr: "2"
+        instanceId: "dfa3bc01-8880-4ec6-8cb0-9ad95f3dc92e"
+        projectId: "jenkins-instance-dev"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  labelAtoms:
+    - name: "basic"
+    - name: "master"
+    - name: "small-okihi5"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  numExecutors: 2
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    local:
+      allowsSignup: false
+      enableCaptcha: false
+      users:
+        - id: "admin"
+          name: "Mauricio "
+          properties:
+            - "apiToken"
+            - mailer:
+                emailAddress: "mauric.mum@gmail.com"
+            - preferredProvider:
+                providerId: "default"
+  slaveAgentPort: -1
+  updateCenter:
+    sites:
+      - id: "default"
+        url: "https://updates.jenkins.io/update-center.json"
+  views:
+    - all:
+        name: "all"
+  viewsTabBar: "standard"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  sSHD:
+    port: -1
+unclassified:
+  buildDiscarders:
+    configuredBuildDiscarders:
+      - "jobBuildDiscarder"
+  buildStepOperation:
+    enabled: false
+  defaultFolderConfiguration:
+    healthMetrics:
+      - worstChildHealthMetric:
+          recursive: true
+  extendedEmailPublisher:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: false
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody:
+      "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:\r\n\r\nCheck\
+      \ console output at $BUILD_URL to view the results."
+    defaultContentType: "text/plain"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: 0
+    precedenceBulk: false
+    useSsl: false
+    watchingEnabled: false
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    hookUrl: "http://35.224.62.193:8080/github-webhook/"
+  gitSCM:
+    createAccountBasedOnEmail: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  location:
+    adminAddress: "Dirección no configurada todavía <nobody@nowhere>"
+    url: "http://35.224.62.193:8080/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  pollSCM:
+    pollingThreadCount: 10
+  timestamperConfig:
+    allPipelines: false
+    elapsedTimeFormat: "'<b>'HH:mm:ss.S'</b> '"
+    systemTimeFormat: "'<b>'HH:mm:ss'</b> '"
+tool:
+  git:
+    installations:
+      - home: "git"
+        name: "Default"
